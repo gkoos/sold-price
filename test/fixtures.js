@@ -4,6 +4,7 @@ const rawHouses = `
 2 0 5000000
 3 0 8000000
 4 0 9900000
+
 `;
 
 const houses = [
