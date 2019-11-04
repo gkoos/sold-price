@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.price-class-0 {
+  fill: #ff1111;
+}
+
+.price-class-1 {
+  fill: #e05c27;
+}
+
+.price-class-2 {
+  fill: #e0a227;
+}
+
+.price-class-3 {
+  fill: #eada1c;
+}
+
+.price-class-4 {
+  fill: #80ea1c;
+}
